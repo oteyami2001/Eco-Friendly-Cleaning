@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "ecofriendly-cleaning",
+      "runtimeExecutable": "node",
+      "runtimeArgs": [".claude/serve-ecofriendly-cleaning.mjs"],
+      "port": 4385
+    }
+  ]
+}
