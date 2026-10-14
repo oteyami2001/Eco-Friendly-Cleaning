@@ -1,0 +1,82 @@
+[
+  {
+    "slug": "kitchen-cleaning",
+    "title": "Kitchen cleaning",
+    "space": "kitchens",
+    "plans": "Weekly · Biweekly · Monthly",
+    "tags": ["residential"],
+    "image": "img/svc-kitchen.jpg",
+    "outcome": "Countertops, stove, oven and range hood, fridge, microwave, sink and floors — degreased and sanitized.",
+    "note": "Residential · Eco products"
+  },
+  {
+    "slug": "green-bathroom-package",
+    "title": "Green bathroom package",
+    "space": "bathrooms",
+    "plans": "Weekly · Biweekly · Monthly",
+    "tags": ["residential"],
+    "image": "img/svc-bathroom.jpg",
+    "outcome": "Removes soap scum and hard-water stains and disinfects high-touch surfaces, with no harsh chemicals.",
+    "note": "Residential · Eco products"
+  },
+  {
+    "slug": "living-room-cleaning",
+    "title": "Living room cleaning",
+    "space": "homes",
+    "plans": "Weekly · Biweekly · Monthly",
+    "tags": ["residential"],
+    "image": "img/svc-living-room.jpg",
+    "outcome": "Dusting, vacuuming, ceiling fans and vents, windows, blinds and baseboards — fresh and comfortable.",
+    "note": "Residential · Eco products"
+  },
+  {
+    "slug": "deep-cleaning",
+    "title": "Deep cleaning",
+    "space": "homes",
+    "plans": "One-time · Seasonal",
+    "tags": ["residential", "deep"],
+    "image": "img/svc-deep.jpg",
+    "outcome": "A top-to-bottom reset for every room, including the spots regular cleaning doesn't reach.",
+    "note": "Homes & apartments"
+  },
+  {
+    "slug": "move-in-move-out",
+    "title": "Move-in / move-out cleaning",
+    "space": "move",
+    "plans": "One-time",
+    "tags": ["residential", "deep"],
+    "image": "img/svc-move.jpg",
+    "outcome": "An empty home cleaned and ready for the keys, for tenants, owners and property managers.",
+    "note": "Homes & apartments"
+  },
+  {
+    "slug": "apartment-cleaning",
+    "title": "Apartment & condo cleaning",
+    "space": "apartments",
+    "plans": "Weekly · Biweekly · Monthly",
+    "tags": ["residential"],
+    "image": "img/svc-apartment.jpg",
+    "outcome": "Recurring cleaning for apartments, condos and apartment communities.",
+    "note": "Residential · Eco products"
+  },
+  {
+    "slug": "office-cleaning",
+    "title": "Office & business cleaning",
+    "space": "offices",
+    "plans": "Daily · Weekly · Contract",
+    "tags": ["commercial"],
+    "image": "img/svc-office.jpg",
+    "outcome": "Workstations, break rooms, restrooms and common areas, scheduled around your business hours.",
+    "note": "Commercial · Custom contracts"
+  },
+  {
+    "slug": "bank-government-cleaning",
+    "title": "Banks & government facilities",
+    "space": "government",
+    "plans": "Custom contract",
+    "tags": ["commercial"],
+    "image": "img/svc-government.jpg",
+    "outcome": "Professional, consistent cleaning for lobbies, offices and public areas of banks and agencies.",
+    "note": "Commercial · Custom contracts"
+  }
+]

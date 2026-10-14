@@ -1,0 +1,10 @@
+[
+  { "id": "homes", "label": "Homes & residences", "icon": "home" },
+  { "id": "apartments", "label": "Apartments & condos", "icon": "apartment" },
+  { "id": "kitchens", "label": "Kitchens", "icon": "kitchen" },
+  { "id": "bathrooms", "label": "Bathrooms", "icon": "bath" },
+  { "id": "offices", "label": "Offices & businesses", "icon": "briefcase" },
+  { "id": "commercial", "label": "Commercial buildings", "icon": "building" },
+  { "id": "government", "label": "Banks & government", "icon": "landmark" },
+  { "id": "move", "label": "Move-in / move-out", "icon": "box" }
+]
