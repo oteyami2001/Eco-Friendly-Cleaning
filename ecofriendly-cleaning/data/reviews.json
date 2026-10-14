@@ -1,0 +1,5 @@
+[
+  { "name": "Sample review", "client": "Homeowner", "service": "Weekly home cleaning", "quote": "Replace this card with a real review from one of your residential customers.", "rating": 5 },
+  { "name": "Sample review", "client": "Office manager", "service": "Office cleaning contract", "quote": "Replace this card with a real review from one of your commercial clients.", "rating": 5 },
+  { "name": "Sample review", "client": "Property manager", "service": "Move-out cleaning", "quote": "Replace this card with a real review from an apartment or property client.", "rating": 5 }
+]
